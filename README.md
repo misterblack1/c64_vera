@@ -2,6 +2,9 @@
 
 Four crude C64 programs that drive a VERA module wired into the cartridge port at $DE00. These are ports of test programs I wrote for an AGFA Compugraphic 9000PS.
 
+VERA module = Video Embedded Retro Adapter
+https://github.com/fvdhoef/vera-module
+
 ## Hardware needed
 
 - C64 with VERA on the I/O1 expansion at $DE00-$DE1F
